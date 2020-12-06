@@ -11,7 +11,7 @@
     "outDir": "dist",
     "lib": ["es2017", "dom"]
   },
-  "include": ["nteract_on_jupyter/app", "nteract_on_jupyter/global.d.ts"],
+  "include": ["nteract_on_jupyter/vue", "nteract_on_jupyter/global.d.ts"],
   "references": [
     { "path": "../../../packages/commutable" },
     { "path": "../../../packages/connected-components" },
